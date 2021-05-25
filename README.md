@@ -2,7 +2,7 @@
 
 # Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
-
+```
 git clone https://github.com/bhavinsen/ReactNativeOneSignalSample.git
 cd ReactNativeOneSignalSample
 npm install
@@ -21,3 +21,4 @@ For run in IOS device
 cd ios
 pod install cd ..
 react-native run-ios 
+```
